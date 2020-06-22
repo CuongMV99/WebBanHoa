@@ -1,0 +1,2 @@
+Cửa hàng là cửa hàng chuyên về bán các sản phẩm Đồ thể dục thể thao. Hiện nay, cửa hàng muốn triển khai bán các sản phẩm lên website và cho phép kahcsh hàng chọn dịch vụ, đăng ký mua hàng.
+Ngoài ra, cửa hàng có các dịch vụ khuyến mãi, tin tức nội bộ cũng đều muốn triển khai trên website. Song song đó, cauwr hàng có dội ngũ tư vấn bán hàng để hỗ trợ về sản phẩm cũng nhưu tư vấn các sản phẩm đến khách hàng một cách nhanh nhất và tốt nhất

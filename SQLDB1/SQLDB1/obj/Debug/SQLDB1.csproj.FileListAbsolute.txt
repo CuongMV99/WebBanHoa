@@ -1,0 +1,6 @@
+F:\Web_Nang_Cao\SQLDB1\SQLDB1\obj\Debug\SQLDB1.csprojAssemblyReference.cache
+F:\Web_Nang_Cao\SQLDB1\SQLDB1\obj\Debug\SQLDB1.csproj.CoreCompileInputs.cache
+F:\Web_Nang_Cao\SQLDB1\SQLDB1\bin\Debug\SQLDB1.dll
+F:\Web_Nang_Cao\SQLDB1\SQLDB1\bin\Debug\SQLDB1.pdb
+F:\Web_Nang_Cao\SQLDB1\SQLDB1\obj\Debug\SQLDB1.dll
+F:\Web_Nang_Cao\SQLDB1\SQLDB1\obj\Debug\SQLDB1.pdb
